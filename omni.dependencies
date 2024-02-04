@@ -1,0 +1,20 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "Rifqiaem18/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":    "android-8.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Rifqiaem18/android_device_qcom_twrp-common",
+    "target_path": "device/qcom/twrp-common",
+    "revision":    "android-8.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Rifqiaem18/vendor_asus_X00HD_4",
+    "target_path": "vendor/asus/X00HD_4",
+    "revision":    "android-8.1"
+  }
+]
