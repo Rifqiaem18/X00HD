@@ -64,3 +64,6 @@ RECOVERY_GRAPHICS_USE_LINELENGTH := true
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"
+
+# Flashlight Path
+PB_TORCH_PATH := "/sys/class/leds/torch_0/brightness"
