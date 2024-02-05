@@ -4,6 +4,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 $(call inherit-product, device/asus/X00HD/full_X00HD.mk)
 
 # Inherit some common Omni stuff.
-$(call inherit-product, vendor/pb/config/common.mk)
+$(call inherit-product, vendor/omni/config/common.mk)
 
 PRODUCT_NAME := omni_X00HD
