@@ -59,9 +59,9 @@ BOARD_SUPPRESS_SECURE_ERASE := true
 RECOVERY_SDCARD_ON_DATA := true
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
-#TWRP_INCLUDE_LOGCAT := true
-#TARGET_USES_LOGD := true
-#TW_USE_TOOLBOX := true
+TWRP_INCLUDE_LOGCAT := true
+TARGET_USES_LOGD := true
+TW_USE_TOOLBOX := true
 
 # Flashlight Path
 PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
