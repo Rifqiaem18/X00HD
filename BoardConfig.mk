@@ -64,4 +64,4 @@ TARGET_USES_LOGD := true
 #TW_USE_TOOLBOX := true
 
 # Flashlight Path
-PB_TORCH_PATH := "/sys/class/leds/led:torch_0/brightness"
+PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
